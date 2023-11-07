@@ -14,5 +14,5 @@ Se tiene el pdf con los enunciados de los ejercicios y una notebook con algunos 
 ├── Práctico8/                 
 │   ├── Practico_8_PYE.pdf 
 │   └── Práctico8.ipynb  
-├── README.md
+└── README.md
 </pre>
